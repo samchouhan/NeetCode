@@ -4,7 +4,7 @@ class Solution:
         hashset= set()
 #Here we are using hashset method...
 #Storing the array in hashset as defining set() method in python      
-        
+#CONDITIONS...       
         for n in nums:
             if n in hashset:
                 return True
